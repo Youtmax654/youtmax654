@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning React JS and Tailwind
+🌱 I’m currently learning React JS and Tailwind  
 🔭 I’m currently working on a clone of X (Twitter)
 
 <!--
