@@ -2,7 +2,7 @@
 
 🙍 I'm a web dev student  
 🌱 I’m currently learning React JS and Tailwind  
-🔭 I’m currently working on a clone of X (Twitter)
+🔭 I’m currently working on a Pomodoro website (personnal project)
 
 <!--
 **Youtmax654/youtmax654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
