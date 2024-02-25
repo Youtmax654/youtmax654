@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🙍 I'm a web dev student  
+🙍 I'm a web developper student  
 🌱 I’m currently learning React JS and Tailwind  
 🔭 I’m currently working on a Pomodoro website (personnal project)
 
