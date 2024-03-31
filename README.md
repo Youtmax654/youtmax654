@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🙍 I'm a web developper student  
-🌱 I’m currently learning React JS and Tailwind  
+🌱 I’m currently learning React.js, Next.js and Tailwind CSS  
 🔭 I’m currently working on a website that helps people to stay focus on their work
 
 <!--
